@@ -17,11 +17,11 @@ EDA_PAIRWISE_COMPARISONS / HRV_PAIRWISE_COMPARISONS: Original scripts used to ge
 3. Pre-saved Results
 For faster reproduction of the LMER models, we provide the following pre-saved outputs:
 
-results_EDA_conditions_pairwise_comparisons: Post-hoc results for EDA Condition effects.
+results_EDA: Post-hoc results for EDA Condition effects.
 
-results_HRV_conditions_pairwise_comparisons: Post-hoc results for HRV Condition effects.
+results_HRV_condition: Post-hoc results for HRV Condition effects.
 
-results_EDA_genders_pairwise_comparisons: Post-hoc results for EDA Gender effects.
+results_HRV_genders: Post-hoc results for EDA Gender effects.
 
 Instructions for Use
 Fast Replication: To verify the main LMER results and generate the summary tables, run LMER_EDA.R or LMER_HRV.R. These will automatically load the pre-saved results.
